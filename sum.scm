@@ -1,4 +1,3 @@
-#lang scheme
 ;;sum function
 (define (sum x y) (* x y))
 ;;square 

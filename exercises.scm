@@ -1,4 +1,3 @@
-#lang scheme
 ;1 exercise
 10
 ;10
